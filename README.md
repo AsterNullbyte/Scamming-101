@@ -21,13 +21,13 @@ If you want to go to a specific section, in the *TOP RIGHT CORNER* there is a li
 ### DM scams - Best pratices
 99% of scams take place via DM's (Direct Messages) due to the fact they're 1-on-1 communication, and server moderators can't take preventitive action. Here are the BEST pratices to catch it very quickly.
 
-1. **You should TURN ON message filtering.**
+1. **You should TURN ON `Message Filtering`.**
    <p align="center">
      <img width="1383" height="870" alt="image" src="https://github.com/user-attachments/assets/c84237d6-76e6-44a7-884b-1521c3c77cd4" />
    </p>
    Go to `Content & Social` (1) and then `Direct Message spam` (2), setting it to "Filter from non-friends". You can set it to everybody if you wish, but this is working off of the assumption that you only add people on discord you trust.
 
-2. **You should scroll down to `Social Permissions` and ENABLE `Message requests`.**
+2. **You should scroll down to `Social Permissions` and ENABLE `Message Requests`.**
    <p align="center">
      <img width="759" height="486" alt="image" src="https://github.com/user-attachments/assets/34a3baa8-76a9-4f70-acda-5e6bb0f3d313" />
    </p>
