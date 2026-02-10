@@ -12,6 +12,8 @@ I'm a Femboy Puppyboy Virus VTuber, with a background in cybersecurity! I have w
 
 In this megathread, I'll be going over all different types of scams, how to identify scams on your own, and what the most common scams are on each platform (by my own research or experience!). If you have any questions, or want to add on suggestions then please raise an issue or make a pull request! Thank you for helping to keep the internet safe for everybody :D
 
+If you want to go to a specific section, in the *TOP RIGHT CORNER* there is a list icon, that would be the table of contents for you to easily circumnavigate.
+
 ---
 
 ## Discord
