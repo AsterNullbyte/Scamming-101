@@ -57,8 +57,8 @@ When I give 'her' attention, you can see that this person replies in broken engl
 What likely was going to happen was they were going to try and get me to click on a website which would have either scraped my IP, my discord cookie, or gave me a link to a fake discord which I would have had to sign in 'again'.
 
 **BLOCK AND REPORT THESE PEOPLE. DO NOT FOLLOW THEIR INSTRUCTIONS. REPORT THEM TO MUTUAL SERVERS.**
-### ***DO NOT OPEN ANY LINKS OR FILES THEY MAY GIVE YOU.***
-> You can report them easily by using the 'Report Spam' button in the top menu. If they get enough reports, discord will manually review them before banning them! (I have seen it done myself)
+  ### ***DO NOT OPEN ANY LINKS OR FILES THEY MAY GIVE YOU.***
+  > You can report them easily by using the 'Report Spam' button in the top menu. If they get enough reports, discord will manually review them before banning them! (I have seen it done myself)
 
 ### Scammer behavior
 Scammers rely on using your human emotions to take over and make stupid decisions. You have a monkey brain, we all do. It's hard wired to be naturally empathetic to other people, and as such people take advantage of that.
