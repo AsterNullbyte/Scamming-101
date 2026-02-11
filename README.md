@@ -150,7 +150,9 @@ A lot of people are unaware of these things, or do not think about them until af
 
 
 -- Common
-1. 
+1. **Check the links you are sent.**
+Compare the two links; `https://ro.blox.com` and `https://roblox.com`. Do you see the difference here? Scammers rely on previously mentioned pressure tactics so that you don't check what you're actually clicking on.
+2. 
 
 
 -- Staff impersonation
@@ -166,5 +168,9 @@ Discord employees will NOT tell you that if you don't do X you will get banned, 
 
 Discord recognizes that some people aren't aware what your token really does, and actively warns you before you send it! This is super helpful if people are trying to get you to send them the contents of an inspect element tool (which you shouldn't be doing anyway), or some other method. Do NOT send these people your token, obviously.
 
-3. e
+3. **Discord employees will have badges on discord that signify themselves as employees**
+<img width="394" height="359" alt="image" src="https://github.com/user-attachments/assets/bc2e6419-01e3-441f-b766-6e16b8f88479" />
+
+Using Tracie as the example here, since she seems to be a product manager or at the very least runs the Discord Town Hall. She is an official staff member, as she had the tool icon on her profile. If you were to hover your mouse over it, it would appear with `Discord staff` and if you clicked on it, it would take you to their website. Anybody else claiming to be a staff member, or a staff member "using a personal account" is for lack of a better word full of shit.
+
 4. e
