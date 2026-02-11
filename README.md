@@ -84,10 +84,12 @@ Scammers rely on using your human emotions to take over and make stupid decision
 Your best tool to avoiding falling victim is remembering the following, and is a good rule of thumb for any interaction:
 
 1. **Do you know this person?** If you're randomly getting approached by somebody you've never talked to before, and you have no reason to be talking to them (e.g. you're doing commissions) then remain cautious to what they want from you.
-1.1 **The "Trojan Horse" Friend** Just because a message comes from a friend you've known for 5 years does not mean it is safe. If your bestie suddenly starts talking like a robot, asks you to "test their new game," or sends you a QR code, their account is likely compromised. Do not assume people around you are 100% well intentioned all the time and use common sense.
-3. **Are they trying to sell you something?** In conjecture with 1, if you weren't intent on buying something from them and they try and offer it out of the blue then you should take a step back and reassess the situation.
-4. **Are they trying to pressure you?** Most scammers will attempt to convince you to ACT NOW, THINK LATER. This is exactly what they want you to do, because if you take a step back and take a minute or two to analyze the situation then you would likely not carry through with their requests, so they try and get you in the mindset you have to act immediately or else.
-5. **Are they trying to get you to click on a link or open a file?** Do not put human trust into this factor, is the link they are sending you known? Is it appropraite for what they want? (e.g. sending you a link to "ro.blox" instead of "roblox.com") If they are sending you a file that you did not explicitly ask for (Like buying commissioned assets) do **NOT** download it and report it.
+   
+   1.1 **The "Trojan Horse" Friend** Just because a message comes from a friend you've known for 5 years does not mean it is safe. If your bestie suddenly starts talking like a robot, asks you to "test their new game," or sends you a QR code, their account is likely compromised. Do not assume people around you are 100% well intentioned all the time and use common sense.
+
+2. **Are they trying to sell you something?** In conjecture with 1, if you weren't intent on buying something from them and they try and offer it out of the blue then you should take a step back and reassess the situation.
+3. **Are they trying to pressure you?** Most scammers will attempt to convince you to ACT NOW, THINK LATER. This is exactly what they want you to do, because if you take a step back and take a minute or two to analyze the situation then you would likely not carry through with their requests, so they try and get you in the mindset you have to act immediately or else.
+4. **Are they trying to get you to click on a link or open a file?** Do not put human trust into this factor, is the link they are sending you known? Is it appropraite for what they want? (e.g. sending you a link to "ro.blox" instead of "roblox.com") If they are sending you a file that you did not explicitly ask for (Like buying commissioned assets) do **NOT** download it and report it.
 
 <details>
 
