@@ -154,6 +154,39 @@ flowchart TD
 
 ---
 
+### Server scams - Best practices
+My advice would remain reletively the same here as above on most accounts, with some caveats here.
+1. Don't join random servers, especially if random accounts are sending you the invite in dms or posting them in a server you're in.
+2. Don't use discord's server search feature
+
+Absolutely do not verify with any bots that you do not trust. People will also make FAKE bots of well known ones such as dyno, always confirm it's the legitmate version of the bot.
+
+<details>
+
+<summary>List of safe to use bots</summary>
+The following are safe, and have zero interest in stealing your account(s).
+
+*   **Dyno**
+*   **Sapphire**
+*   **Mee6** (Although I have my own personal biases with this shit company, they aren't actively malicious to anybody's current knowledge)
+*   **Wick** (This bot is absolutely prone to getting copycats made of it, be extra vigilant)
+
+  -- For roblox verification bots
+*    **RoVer**
+*    **Bloxlink**
+*    **RoWifi** (Their bot is slow as shit and they had an exposed pedophile as the head of customer support, I don't recommend it)
+
+</details>
+
+
+
+---
+
+### DM Scams - Identifying
+
+
+---
+
 ### Common errors
 A lot of people are unaware of these things, or do not think about them until after they've been scammed and are informed of it. Here are some important things you NEED to know.
 
@@ -168,7 +201,6 @@ A lot of people are unaware of these things, or do not think about them until af
 4. Check the Embeds/Hyperlinks.
 
    Scammers can use markdown to hide links. For example, `[Click Here](https://evil.site)`. Always hover over a link before clicking to see the true destination in the bottom left of your browser/client.
-5. 
 
 
 -- Staff impersonation
