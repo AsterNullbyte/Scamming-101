@@ -186,6 +186,6 @@ A lot of people are unaware of these things, or do not think about them until af
 
    Using Tracie as the example here, since she seems to be a product manager or at the very least runs the Discord Town Hall. She is an official staff member, as she had the tool icon on her profile. If you were to hover your mouse over it, it would appear with `Discord staff` and if you clicked on it, it would take you to their website. Anybody else claiming to be a staff member, or a staff member "using a personal account" is for lack of a better word full of shit.
 
-4.**External "Support" Agents do not exist.**
+4. **External "Support" Agents do not exist.**
 
    Discord, Steam, and Riot Games do not have "Admins" that will DM you on Discord to resolve a ban or a report. If someone tells you to add `Valve_Admin_Mike#1234` to save your account, you are being scammed. Block them immediately.
