@@ -29,12 +29,11 @@ Steam has some very specific security features that you absolutely **MUST** use.
 3.  **Inventory Privacy**
     If you are not an active trader, set your Inventory to `Friends Only` or `Private`. Scammers use bots to scan public inventories for high-value items (Knives, Gloves, expensive TF2 hats) and target those users specifically.
 
-4. **Audit your Browser Extensions**
+4.  **Audit your Browser Extensions**
+    Many scammers create fake versions of popular extensions (like "Steam Inventory Helper" or "CSFloat") or buy legitimate extensions and update them with malware.
+    *   **The Risk:** These extensions have permission to read and change data on `steamcommunity.com`. They can auto-accept trade offers or steal your session cookie without you even clicking a link.
+    *   **The Fix:** Use as few extensions as possible. If an extension asks for "Read/Write" permissions on all sites, do not install it.
 
-Many scammers create fake versions of popular extensions (like "Steam Inventory Helper" or "CSFloat") or buy legitimate extensions and update them with malware.
- - These extensions have permission to read and change data on `steamcommunity.com`. They can auto-accept trade offers or steal your session cookie without you even clicking a link.
- - Use as few extensions as possible. If an extension asks for "Read/Write" permissions on all sites, do not install it.
-   
 ---
 
 ## DM Scams - Identifying
