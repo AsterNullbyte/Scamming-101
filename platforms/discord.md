@@ -237,7 +237,7 @@ A lot of people are unaware of these things, or do not think about them until af
 
 ---
 
-### HELP! I got hacked!
+## HELP! I got hacked!
 
 If you think you messed up, do not panic, but act FAST:
 1. Change your password immediately. This forces a logout on all devices, it will ALSO invalidate any tokens or cookies associated with your account (bot tokens do not count)
