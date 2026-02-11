@@ -27,6 +27,14 @@ Go to `Content & Social` (1) and then ``Direct Message spam`` (2), setting it to
    </p>
 
    I have my friend requests on my personal account set to everybody because I can filter out who I want to talk to and who's going to waste my time, but if you're on discord only for a small and specific friendgroup then I suggest setting this to friends of friends only. This will generally work very well, with the only caveat being that you would have to manually add everybody you wanted to talk to if they weren't a friend of somebody you already have on your friends list.
+   
+4. **Turn on 2FA**
+  
+  Use an Authenticator App (like Authy or Google Auth). Do not rely on SMS (text message) 2FA if you can avoid it.
+
+5. **Download your Backup Codes** 
+
+If you lose your phone, these are the ONLY way back into your account. Write them down!
 
 ---
 
@@ -166,6 +174,7 @@ The following are safe, and have zero interest in stealing your account(s).
 ## Server Scams - Identifying
 
 1. **The Verification Trap**
+
    This is the most common way servers steal accounts. You join a server, and a bot (or a channel) tells you that you must "Verify" to see the rest of the channels.
 
    These servers are not real; you will never be verified. If you open this link, it will take you to a website asking you to scan a QR code or to a fake Discord login page. When you type in your password or scan the QR code, you'll be immediately logged out of your account.
@@ -186,6 +195,7 @@ The following are safe, and have zero interest in stealing your account(s).
    > Discord will automatically display a popup if a legitimate application is asking to link to your account. It will never happen inside a random website browser window.
 
 2. **The "Compromised Webhook"**
+   
    Sometimes, a perfectly safe server you've been in for months will suddenly ping @everyone with a message like:
    *   "WE ARE MINTING A NEW NFT!"
    *   "OWNER IS LEAVING, FREE NITRO FOR EVERYONE"
@@ -193,6 +203,7 @@ The following are safe, and have zero interest in stealing your account(s).
    If a server that usually talks about Minecraft suddenly starts talking about Crypto/NFTs with urgent "Claim Now" links, the server (or a moderator's webhook) has been hacked. Do not click the link. Leave the server or wait for the actual admins to fix it.
 
 3. **The "Leak" / Illegal Content Server**
+   
    Servers promising "OnlyFans Leaks," "Paid Scripts for Free," or "Nudity" are often honeypots. They exist to get you to download malware.
    
 ---
