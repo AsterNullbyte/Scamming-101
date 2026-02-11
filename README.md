@@ -35,7 +35,9 @@ If my hours and hours of work helped you or taught you anything at all, consiter
 >[!NOTE]
 > **AI usage disclosure**
 >
-> The use of AI was employed for proofreading and feedback, no contributions were made in part or wholy by any LLM model.
+> The use of AI was employed for proofreading, formatting, and feedback. (Plugging in human created text and asking it to format it using github's rich markdown)
+>
+>No contributions were made in part or wholy by any LLM model.
 
 <details>
 <summary><b>Discord</b></summary>
@@ -51,8 +53,23 @@ If my hours and hours of work helped you or taught you anything at all, consiter
 </details>
 
 <details>
-<summary><b>Steam (Coming Soon)</b></summary>
+<summary><b>Steam</b></summary>
   
-- (Links will go here later)
+- [**Steam**](https://github.com/AsterNullbyte/Scamming-101/blob/main/platforms/steam.md#scamming-101-steam)
+  - [Security - Best Practices](https://github.com/AsterNullbyte/Scamming-101/blob/main/platforms/steam.md#security---best-practices)
+  - [DM Scams - Identifying](https://github.com/AsterNullbyte/Scamming-101/blob/main/platforms/steam.md#security---best-practices)
+  - [Common Scams](https://github.com/AsterNullbyte/Scamming-101/blob/main/platforms/steam.md#security---best-practices)
+  - [HELP! I got hacked!](https://github.com/AsterNullbyte/Scamming-101/blob/main/platforms/steam.md#security---best-practices)
+
+</details>
+
+<details>
+<summary><b>ROBLOX</b></summary>
+  
+- [**ROBLOX**](https://github.com/AsterNullbyte/Scamming-101/blob/main/platforms/roblox.md#scamming-101-roblox)
+  - [Security - Best Practices](https://github.com/AsterNullbyte/Scamming-101/blob/main/platforms/roblox.md#security---best-practices)
+  - [Cookie Warning](https://github.com/AsterNullbyte/Scamming-101/blob/main/platforms/roblox.md#the-cookie-warning-roblosecurity)
+  - [Common Scams](https://github.com/AsterNullbyte/Scamming-101/blob/main/platforms/roblox.md#common-scams---identifying--avoiding)
+  - [Technical Visual of the HAR scam](https://github.com/AsterNullbyte/Scamming-101/blob/main/platforms/roblox.md#technical-visual-the-har-scam)
 
 </details>
