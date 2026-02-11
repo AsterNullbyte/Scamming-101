@@ -104,3 +104,26 @@ Someone offers to buy your item for $50, but they say they can't trade the money
 *    **The Scam:** They block you immediately.
   
 You should NEVER trade items for anything that cannot be put into the Steam Trade Window. If it's not in the window (Money, Codes, Promises), it does not exist.
+
+---
+
+## HELP! I got hacked!
+
+If you clicked the link or scanned the QR code, act FAST.
+
+1.  **Revoke your API Key:**
+    Go to [https://steamcommunity.com/dev/apikey](https://steamcommunity.com/dev/apikey) and click **"Revoke My Steam Web API Key"**. Do this FIRST. If you change your password but leave the key, they can still mess with your trades.
+    
+2.  **Deauthorize all Devices:**
+    Go to `Account Details` > `Manage Steam Guard` > `Deauthorize all other devices`. This kicks the hacker off.
+
+3.  **Change your Password:**
+    Self-explanatory. Use a password manager, they can spit out good passwords that you wouldn't think of using.
+
+4.  **Generate New Backup Codes:**
+    If the hacker got into your account, they might have saved your backup codes to log back in later. Generate a new set immediately.
+
+5.  **Contact Steam Support:**
+    If you lost access completely, lock your account (using the link in your email) and submit a ticket. Provide proof of ownership (old CD keys, credit card usage, etc.).
+
+    Steam support is likely to drone strike the scammer, so I suggest taking out a million dollar policy on their family :3 
