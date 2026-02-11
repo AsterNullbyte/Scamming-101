@@ -8,7 +8,7 @@ This will be a megathread on all of the scams that I have personally encountered
 ## Opening
 Hi everybody! I'm AsterNullbyte, woof! If you are not coming to this page from either my cardd, my twitter, or one of my other socials, allow me to introduce myself! 
 
-I'm a Femboy Puppyboy Virus VTuber, with a background in cybersecurity! I have worked in a professional setting doing multiple roles including as a security researcher at one point, and I do my best to try and educate everybody on digital security and keeping themselves safe in the big 26! You can find me cross-streaming on twitch and youtube, and find me posting whatever's on my mind on my (18+) twitter!
+I'm a Puppyboy Virus VTuber, with a background in cybersecurity! I have worked in a professional setting doing multiple roles including as a security researcher at one point, and I do my best to try and educate everybody on digital security and keeping themselves safe in the big 26! You can find me cross-streaming on twitch and youtube, and find me posting whatever's on my mind on my (18+) twitter!
 
 In this megathread, I'll be going over all different types of scams, how to identify scams on your own, and what the most common scams are on each platform (by my own research or experience!). If you have any questions, or want to add on suggestions then please raise an issue or make a pull request! Thank you for helping to keep the internet safe for everybody :D
 
@@ -165,7 +165,10 @@ A lot of people are unaware of these things, or do not think about them until af
 3. **DO NOT SCAN DISCORD QR CODES.**
 
    The Discord mobile app QR scanner is strictly for logging in. If you scan a code sent by a stranger, you are bypassing your own password and 2FA to log them into your account instantly.
-4. 
+4. Check the Embeds/Hyperlinks.
+
+   Scammers can use markdown to hide links. For example, `[Click Here](https://evil.site)`. Always hover over a link before clicking to see the true destination in the bottom left of your browser/client.
+5. 
 
 
 -- Staff impersonation
@@ -189,3 +192,17 @@ A lot of people are unaware of these things, or do not think about them until af
 4. **External "Support" Agents do not exist.**
 
    Discord, Steam, and Riot Games do not have "Admins" that will DM you on Discord to resolve a ban or a report. If someone tells you to add `Valve_Admin_Mike#1234` to save your account, you are being scammed. Block them immediately.
+
+---
+
+### HELP! I got hacked!
+
+If you think you messed up, do not panic, but act FAST:
+1. Change your password immediately. This forces a logout on all devices, it will ALSO invalidate any tokens or cookies associated with your account (bot tokens do not count)
+2. Run an Antivirus scan (Malwarebytes is a good free option, but windows defender also works at a similar accuracy) if you downloaded a file.
+3. Check your Authorized Apps. Go to User Settings > Authorized Apps and de-authorize anything you don't recognize.
+
+If you are locked out of your account, use "Forgot my password". Discord implemented a feature where you can't change your email without confirming with your current email that you wish to change emails, this ensures that even if you are locked out of your account that you can regain access by simply requesting a password reset.
+
+   <img width="464" height="493" alt="image" src="https://github.com/user-attachments/assets/67cd0e1f-5311-43fe-b357-133747c0bce9" />
+
