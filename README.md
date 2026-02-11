@@ -18,7 +18,7 @@ If you want to go to a specific section, in the *TOP RIGHT CORNER* there is a li
 
 ## Discord
 
-### DM scams - Best pratices
+### DM scams - Best practices
 99% of scams take place via DM's (Direct Messages) due to the fact they're 1-on-1 communication, and server moderators can't take preventitive action. Here are the BEST pratices to catch it very quickly.
 
 1. **You should TURN ON `Message Filtering`.**
@@ -84,9 +84,10 @@ Scammers rely on using your human emotions to take over and make stupid decision
 Your best tool to avoiding falling victim is remembering the following, and is a good rule of thumb for any interaction:
 
 1. **Do you know this person?** If you're randomly getting approached by somebody you've never talked to before, and you have no reason to be talking to them (e.g. you're doing commissions) then remain cautious to what they want from you.
-2. **Are they trying to sell you something?** In conjecture with 1, if you weren't intent on buying something from them and they try and offer it out of the blue then you should take a step back and reassess the situation.
-3. **Are they trying to pressure you?** Most scammers will attempt to convince you to ACT NOW, THINK LATER. This is exactly what they want you to do, because if you take a step back and take a minute or two to analyze the situation then you would likely not carry through with their requests, so they try and get you in the mindset you have to act immediately or else.
-4. **Are they trying to get you to click on a link or open a file?** Do not put human trust into this factor, is the link they are sending you known? Is it appropraite for what they want? (e.g. sending you a link to "ro.blox" instead of "roblox.com") If they are sending you a file that you did not explicitly ask for (Like buying commissioned assets) do **NOT** download it and report it.
+1.1 **The "Trojan Horse" Friend** Just because a message comes from a friend you've known for 5 years does not mean it is safe. If your bestie suddenly starts talking like a robot, asks you to "test their new game," or sends you a QR code, their account is likely compromised. Do not assume people around you are 100% well intentioned all the time and use common sense.
+3. **Are they trying to sell you something?** In conjecture with 1, if you weren't intent on buying something from them and they try and offer it out of the blue then you should take a step back and reassess the situation.
+4. **Are they trying to pressure you?** Most scammers will attempt to convince you to ACT NOW, THINK LATER. This is exactly what they want you to do, because if you take a step back and take a minute or two to analyze the situation then you would likely not carry through with their requests, so they try and get you in the mindset you have to act immediately or else.
+5. **Are they trying to get you to click on a link or open a file?** Do not put human trust into this factor, is the link they are sending you known? Is it appropraite for what they want? (e.g. sending you a link to "ro.blox" instead of "roblox.com") If they are sending you a file that you did not explicitly ask for (Like buying commissioned assets) do **NOT** download it and report it.
 
 <details>
 
@@ -105,6 +106,12 @@ I have seen the following used as scams in my time:
 *   Free roblox exploits (I swear to you, I'm not making that shit up)
 *   "I reported your discord/steam account on accident"
 *   Fake discord/steam support
+*   "I made a game, can you test it?"
+     <p align="left"> 
+        They will send you a .zip or .exe file. It is not a game. It is a 'stealer' (InfoStealer) that grabs your browser cookies and Discord token, allowing them to bypass your password and 2FA.
+        </p>
+
+
 </details>
 
 <details>
@@ -151,26 +158,32 @@ A lot of people are unaware of these things, or do not think about them until af
 
 -- Common
 1. **Check the links you are sent.**
-Compare the two links; `https://ro.blox.com` and `https://roblox.com`. Do you see the difference here? Scammers rely on previously mentioned pressure tactics so that you don't check what you're actually clicking on.
-2. 
+   
+   Compare the two links; `https://ro.blox.com` and `https://roblox.com`. Do you see the difference here? Scammers rely on previously mentioned pressure tactics so that you don't check what you're actually clicking on.
+3. **DO NOT SCAN DISCORD QR CODES.**
+
+   The Discord mobile app QR scanner is strictly for logging in. If you scan a code sent by a stranger, you are bypassing your own password and 2FA to log them into your account instantly.
+4. 
 
 
 -- Staff impersonation
 1. **Discord will not send you DM's on their personal account(s).** This applies to every platform, but we're talking about discord here.
 <img width="1482" height="251" alt="image" src="https://github.com/user-attachments/assets/b71df7b9-db97-46f4-8c0c-53294196a46d" />
 
-If there is an issue with your account, they will send you a message via their actual notification system which you CAN'T reply to. Any other method on discord is illegitmate.
+   If there is an issue with your account, they will send you a message via their actual notification system which you CAN'T reply to. Any other method on discord is illegitmate.
 
-Discord employees will NOT tell you that if you don't do X you will get banned, you'll simply get a "fuck you" notice and you magically can't send people DM's for 3 days (Ask me how I know, and what discord's response was for my appeal of the message "fuck you (name of ex)" was)
+   Discord employees will NOT tell you that if you don't do X you will get banned, you'll simply get a "fuck you" notice and you magically can't send people DM's for 3 days (Ask me how I know, and what discord's response was for my appeal of the message "fuck you (name of ex)" was)
 
 2. **Discord will actively prevent you from sending your own token.**
 <img width="656" height="290" alt="image" src="https://github.com/user-attachments/assets/a93dee02-5c90-4f39-a32b-b139b457b987" />
 
-Discord recognizes that some people aren't aware what your token really does, and actively warns you before you send it! This is super helpful if people are trying to get you to send them the contents of an inspect element tool (which you shouldn't be doing anyway), or some other method. Do NOT send these people your token, obviously.
+   Discord recognizes that some people aren't aware what your token really does, and actively warns you before you send it! This is super helpful if people are trying to get you to send them the contents of an inspect element tool (which you shouldn't be doing anyway), or some other method. Do NOT send these people your token, obviously.
 
 3. **Discord employees will have badges on discord that signify themselves as employees**
 <img width="394" height="359" alt="image" src="https://github.com/user-attachments/assets/bc2e6419-01e3-441f-b766-6e16b8f88479" />
 
-Using Tracie as the example here, since she seems to be a product manager or at the very least runs the Discord Town Hall. She is an official staff member, as she had the tool icon on her profile. If you were to hover your mouse over it, it would appear with `Discord staff` and if you clicked on it, it would take you to their website. Anybody else claiming to be a staff member, or a staff member "using a personal account" is for lack of a better word full of shit.
+   Using Tracie as the example here, since she seems to be a product manager or at the very least runs the Discord Town Hall. She is an official staff member, as she had the tool icon on her profile. If you were to hover your mouse over it, it would appear with `Discord staff` and if you clicked on it, it would take you to their website. Anybody else claiming to be a staff member, or a staff member "using a personal account" is for lack of a better word full of shit.
 
-4. e
+4.**External "Support" Agents do not exist.**
+
+   Discord, Steam, and Riot Games do not have "Admins" that will DM you on Discord to resolve a ban or a report. If someone tells you to add `Valve_Admin_Mike#1234` to save your account, you are being scammed. Block them immediately.
