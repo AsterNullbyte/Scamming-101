@@ -35,7 +35,7 @@ If my hours and hours of work helped you or taught you anything at all, consiter
 >[!NOTE]
 > **AI usage disclosure**
 >
-> The use of AI was employed for proofreading, formatting, and feedback. (Plugging in human created text and asking it to format it using github's rich markdown)
+> The use of AI was employed for proofreading, formatting, and feedback. (Plugging in human created text and asking it to format it using `Github Flavored Markdown`, or GFM.)
 >
 >No contributions were made in part or wholy by any LLM model.
 
