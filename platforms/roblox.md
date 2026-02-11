@@ -6,7 +6,7 @@ Roblox is weird. It's often seen as a "kids game," but the black market for Robl
 
 They don't just want your Robux. They want your **Limiteds** (to sell for crypto), your **Groups** (to launder money), and your **Account Age** (older accounts are valuable).
 
-I worked at roblox for a time (I won't get into all of that), to put it very frankly everybody that works at roblox is an undiagnosed sociopathic dickbag. Roblox does not care about you, they see you as flesh wallets to be exploited and their customer service should be demonstrative of that.
+I worked at roblox for a time (I won't get into all of that), to put it very frankly everybody that works at roblox is an undiagnosed sociopathic dickbag. Roblox does not care about you, they see you as flesh wallets to be exploited and their customer service should be demonstrative of that. You might notice that there's no "Help! I was hacked!" section here, and that's because you're going to need to pray to whatever god you believe in that they don't have ChatGPT answer your support ticket, which is going to politely tell you to fuck off lol.
 
 ---
 
