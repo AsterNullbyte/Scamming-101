@@ -157,7 +157,7 @@ flowchart TD
 ### Server scams - Best practices
 My advice would remain reletively the same here as above on most accounts, with some caveats here.
 1. Don't join random servers, especially if random accounts are sending you the invite in dms or posting them in a server you're in.
-2. Don't use discord's server search feature
+2. While Discord's built-in "Server Discovery" is generally safe, third-party sites are filled with "Free Nitro" or "NSFW" bait servers. If a server description promises you money or free products just for joining, it is a lie.
 
 Absolutely do not verify with any bots that you do not trust. People will also make FAKE bots of well known ones such as dyno, always confirm it's the legitmate version of the bot.
 
@@ -182,8 +182,36 @@ The following are safe, and have zero interest in stealing your account(s).
 
 ---
 
-### DM Scams - Identifying
+### Server Scams - Identifying
 
+   1. The Verification Trap
+
+      This is the most common way servers steal accounts. You join a server, and a bot (or a channel) tells you that you must "Verify" to see the rest of the channels.
+
+      These servers are not real, you will never be verified. If you open this link, it will take you to a website asking you to scan a QR code or it will take you to a fake discord login page asking you to login again. When you type in your password or scan the QR code, you'll be immediately logged out of your account.
+
+         You should ONLY trust bots that have a BLUE CHECKMARK that says "Bot"
+         
+         <img width="291" height="377" alt="image" src="https://github.com/user-attachments/assets/a18b9d78-e893-4ace-ac12-425d90e7f550" />
+
+         This is the legitmate bloxlink application, notice it's got a blue box with a checkmark that says "APP".
+         <img width="296" height="352" alt="image" src="https://github.com/user-attachments/assets/94298350-faf2-409f-866b-c89186895f87" />
+
+         This is my server's bot, notice how it's missing the checkmark because I have not gotten it verified with discord. Do not trust applications that have not been verified (obviously my bot is safe in this context as I do not yet have any verification systems in place.)
+> [!IMPORTANT]
+> **Legitmate bots will NEVER try to ask for your password, or your account token.**
+> 
+> Discord will automatically display a popup if a legitmate application is asking to link to your account, never on your browser.
+      
+   3. The "Compromised Webhook"
+
+         Sometimes, a perfectly safe server you've been in for months will suddenly ping @everyone with a message like:
+         "WE ARE MINTING A NEW NFT!"
+         "OWNER IS LEAVING, FREE NITRO FOR EVERYONE"
+         
+         If a server that usually talks about Minecraft suddenly starts talking about Crypto/NFTs with urgent "Claim Now" links, the server (or a moderator's webhook) has been hacked. Do not click the link. Leave the server or wait for the actual admins to fix it.
+   4. The "Leak" / Illegal Content Server
+         Servers promising "OnlyFans Leaks," "Paid Scripts for Free," or "Nudity" are often honeypots. They exist to get you to download malware.
 
 ---
 
