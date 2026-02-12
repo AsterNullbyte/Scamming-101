@@ -25,7 +25,7 @@ You buy their premium plan for less than you'd spend on a monthly subscription l
 
 **JUST DO IT.** It supports open-source developers and secures your entire life.
 
-I also hear you saying *"But Aster, I spent too much on my fansly subscription to femboygroiper69 and I'm broke. What other options do I have?"* 
+I also hear you saying *"But Aster, I spent too much on my fansly subscription to femboygroyper69 and I'm broke. What other options do I have?"* 
 
 To that, I say **NOT TO WORRY**. Bitwarden has a **FREE 2FA MOBILE APP**. Everybody can use it, and it will link with your account. I'm not going to explain it, as their documentation does a very good job explaining the pros and cons [here](https://bitwarden.com/help/bitwarden-authenticator/).
 
