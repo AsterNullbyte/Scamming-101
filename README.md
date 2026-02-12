@@ -22,7 +22,7 @@ If my hours and hours of work helped you or taught you anything at all, consiter
 
 [Twitch](https://www.twitch.tv/asternullbyte)
 
-[Discord](https://discord.gg/fXK4NG8xVd)
+[Discord](https://discord.com/invite/Y3zeYCTNRg)
 
 [Youtube](https://www.youtube.com/@AsterNullbyte)
 
