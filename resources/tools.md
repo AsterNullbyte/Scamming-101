@@ -29,6 +29,9 @@ I also hear you saying *"But Aster, I spent too much on my fansly subscription t
 
 To that, I say **NOT TO WORRY**. Bitwarden has a **FREE 2FA MOBILE APP**. Everybody can use it, and it will link with your account. I'm not going to explain it, as their documentation does a very good job explaining the pros and cons [here](https://bitwarden.com/help/bitwarden-authenticator/).
 
+>[!IMPORTANT]
+>You ABSOLUTELY need a non-email based 2FA. If you do not wish for bitwarden's 2FA, I suggest you look into Google Authenticator or Microsoft Authenticator.
+
 ### Privacy.com
 `privacy.com`
 *(US Only mostly, sorry EU friends)*
