@@ -40,7 +40,7 @@ Stop giving your real Debit Card number to sketchy sites. Privacy.com lets you m
 
 I LOVE privacy, I use it almost as much as bitwarden. I can spend my money on dumb shit without having to worry about my credit card getting charged 300 times at some indian market or whatnot. They also let you use ANY name and address you want, Privacy will respond that it's valid, so you can put in fake details if you want to be anonymous. The only caveat is that you have to provide them your actual information (KYC laws) but I would rather a company backed by an FDIC bank has my information rather than `totallynotascam.buy`
 
-They offer a premium plan, but it's not nessesary here. I used it at one point, but cancelled my subscription as I didn't need it.
+They offer a premium plan, but it's not necessary  here. I used it at one point, but cancelled my subscription as I didn't need it.
 
 <details>  
 
@@ -67,7 +67,7 @@ This is the only adblocker that matters.
 *   **The Fix:** uBlock Origin deletes these ads from existence. It blocks popups, trackers, and crypto-miners.
 
 >[!IMPORTANT]
->This is free, lightweight and is avalible in EVERY browser as an extension. You have no reason not to be using this.
+>This is free, lightweight and is available  in EVERY browser as an extension. You have no reason not to be using this.
 
 ---
 
