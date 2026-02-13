@@ -29,6 +29,32 @@ I also hear you saying *"But Aster, I spent too much on my fansly subscription t
 
 To that, I say **NOT TO WORRY**. Bitwarden has a **FREE 2FA MOBILE APP**. Everybody can use it, and it will link with your account. I'm not going to explain it, as their documentation does a very good job explaining the pros and cons [here](https://bitwarden.com/help/bitwarden-authenticator/).
 
+### Privacy.com
+`privacy.com`
+*(US Only mostly, sorry EU friends)*
+
+Stop giving your real Debit Card number to sketchy sites. Privacy.com lets you make "Virtual Cards."
+*   Want to sign up for a "Free Trial" that charges you if you forget to cancel?
+*   Make a card on Privacy.com, set the limit to **$1**, and use that.
+*   When they try to charge you $50, it declines. You win.
+
+I LOVE privacy, I use it almost as much as bitwarden. I can spend my money on dumb shit without having to worry about my credit card getting charged 300 times at some indian market or whatnot. They also let you use ANY name and address you want, Privacy will respond that it's valid, so you can put in fake details if you want to be anonymous. The only caveat is that you have to provide them your actual information (KYC laws) but I would rather a company backed by an FDIC bank has my information rather than `totallynotascam.buy`
+
+They offer a premium plan, but it's not nessesary here. I used it at one point, but cancelled my subscription as I didn't need it.
+
+<details>  
+
+<summary><b>Here's proof that I use what I advertise!</b></summary>
+<img width="657" height="604" alt="image" src="https://github.com/user-attachments/assets/40ec265d-fbd4-4f1d-9687-b797e376627d" />
+
+Blocked out are personal accounts (amazon, etc)
+
+<img width="1863" height="946" alt="image" src="https://github.com/user-attachments/assets/4e31f6d1-de4b-4be4-ab00-b0678b5f2d5b" />
+
+I have blocked out the login information for anything remotely identifiable. As of currently, I have about ~3000 logins stored after 5 years of usage.
+  
+</details>
+
 ---
 
 ## Adblocking
@@ -80,3 +106,25 @@ Put your email in here. Right now.
 It will tell you every single database breach your email has been found in.
 *   If you see a breach from 2018 (e.g., MyFitnessPal), and you haven't changed your password since 2018... **CHANGE YOUR PASSWORD.**
 *   Hackers take these old lists and try the email/password combos on every other site (Steam, Discord, Netflix). This is called "Credential Stuffing." Don't be a victim of lazy password reuse.
+
+## Network Defense (DNS)
+You know how you type `google.com` and your computer finds the IP address?
+
+That's DNS. I could go more indepth about it but basically its a central registry that your computer asks "what's the IP address of google?" it responds with "oh yeah here's google's IP address", since your computer does not read "google.com" it only understands google's IP address (which is why when your internet goes down you see a DNS error).
+
+Most people use their ISP's default DNS, which means your ISP (Comcast/AT&T) tracks every site you visit, and they don't block anything. They also sell off your data, and will openly hand it to the authorities without a warrant!
+
+### Quad9
+`quad9.net`
+
+Quad9 is a free DNS provider. If you try to go to a known malware or phishing site, Quad9 just says "na fam" and blocks the connection. It is literally a condom for your internet connection.
+
+**How to set it up:**
+It takes 2 minutes. You don't need to install software.
+*   **Windows:** Settings > Network & Internet > DNS > Manual.
+*   **The Magic Numbers:**
+    *   **Preferred:** `9.9.9.9`
+    *   **Alternate:** `149.112.112.112`
+
+Set it once, and it protects you forever (or until you reinstall Windows).
+
